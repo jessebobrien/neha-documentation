@@ -25,5 +25,5 @@ jobs:
           table_of_contents: true
       - uses: actions/upload-artifact@v3
         with:
-          name: ${GITHUB_REF##*/}
+          name: branchname_placeholder
           path: pdfs
