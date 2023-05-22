@@ -73,8 +73,7 @@ A. Class Requirements
 10. Springs must be on original seats.
 11. Rim size may be changed. Tire size is free. (Fender lip may be flattened to help prevent tire chafing.)
 12. Tires must be DOT approved.
-13. OEM flexible brake lines may be replaced with aftermarket or motorsport
-braided stainless steel lines.
+13. OEM flexible brake lines may be replaced with aftermarket or motorsport braided stainless steel lines.
 
 ### 4. STREET PREPARED
 
@@ -82,64 +81,29 @@ braided stainless steel lines.
 A. Class Requirements
 ```
 
-1. This category is based on stock production vehicles that are easily
-    recognized as such, and must have operational lights, horn, glass,
-    wipers, mirrors, door handles, bumpers, bumper reinforcement bars (in
-    good condition OEM or equivalent), both front seats, heater and
-    dashboard.
-2. The following items may be removed: emissions equipment, sound
-    deadening, sound system, head liner, floor covering, trunk area
-    covering, rear seating (provided that proper separation remains or is
-    installed between driver and fuel area). Removal in excess of the above
-    invokes the excessive lightening penalty.
-3. Doors may not have any structure removed causing them to be
-    excessively lightened – i.e.; intrusion bar, outer framework and basic
-    structure of the door must remain intact.
-4. The floor and trunk area must remain intact and in stock location. Any
-    modifications to the floor or trunk area must be sealed as good as the
-    factory original.
-5. All exterior body panels must appear as stock and remain in place
-    (fender flares are free).
-6. Relocation of accessories, batteries, fuel system, electrical components
-    is allowed, provided that the exterior of vehicle remains as produced.
-7. Interchange of production options within the model is free (while
-    adhering to the adjustments from the norm section).
+1. This category is based on stock production vehicles that are easily recognized as such, and must have operational lights, horn, glass, wipers, mirrors, door handles, bumpers, bumper reinforcement bars (in good condition OEM or equivalent), both front seats, heater and dashboard.
+2. The following items may be removed: emissions equipment, sound deadening, sound system, head liner, floor covering, trunk area covering, rear seating (provided that proper separation remains or is installed between driver and fuel area). Removal in excess of the above invokes the excessive lightening penalty.
+3. Doors may not have any structure removed causing them to be excessively lightened – i.e.; intrusion bar, outer framework and basic structure of the door must remain intact.
+4. The floor and trunk area must remain intact and in stock location. Any modifications to the floor or trunk area must be sealed as good as the factory original.
+5. All exterior body panels must appear as stock and remain in place (fender flares are free).
+6. Relocation of accessories, batteries, fuel system, electrical components is allowed, provided that the exterior of vehicle remains as produced.
+7. Interchange of production options within the model is free (while adhering to the adjustments from the norm section).
 8. Engine/ driveline modifications are allowed.
-9. Rim size may be changed. Tire size is free but the tread may not be
-    seen from above. Tires must be DOT approved. Wheel openings shall
-    retain their original contour when viewed from the side.
-10. The above items do not void any applicable safety requirements as listed
-in the Technical and Safety Requirements.
+9. Rim size may be changed. Tire size is free but the tread may not be seen from above. Tires must be DOT approved. Wheel openings shall retain their original contour when viewed from the side.
+10. The above items do not void any applicable safety requirements as listed in the Technical and Safety Requirements.
+
 5. UNPREPARED AND STREET PREPARED CLASS DETERMINATION
 A. Base Class Determination
-1. Classes are determined within a category by the ratio of adjusted engine
-displacement (in cubic centimeters) to vehicle weight (in pounds).
-2. Curb weights are those published in the N.A.D.A. used car dealer guide,
-if available, or on the vehicle manufacturer’s tag if equipped and not
-tampered with. If the tag weight is used, it will be given in gross vehicle
-weight and must be adjusted. Subtract 175 lb per occupant, from the
-GVW to get curb weight.
-3. Actual displacement is adjusted by factors from the “norm” and then
-divided by the curb weight. (Norm = 2 valves and 1 injector per cylinder
-normally aspirated, in-line configuration.) This number will be used to
-class the car.
-4. Side-intake-port Wankel rotary engine displacement is multiplied by 1.
-prior to applying factors.
-5. Some classes in Unprepared and Street Prepared are limited to two-
-wheel drive (2WD) vehicles.
-6. No kit cars and no engine swaps will be allowed in Unprepared. In
-Street Prepared kit cars and engine swaps will be classed where
-deemed most competitive.
-7. To determine your car’s class, multiply your car’s actual displacement by
-each applicable adjustment under 5.F. Take the sum and divide this by
-the car’s weight to come up with your class factor. Apply this number to
-the chart above. Then come run and have fun!
-8. There will be no penalty for a roll cage regardless of how it is tied in to
-the body structure, or for racing seats.
-9. Updating or backdating within the model will not be penalized (factors
-will be assessed after the changes).
-10. Emission requirements shall not be considered in the enforcement of
-these rules.
+1. Classes are determined within a category by the ratio of adjusted engine displacement (in cubic centimeters) to vehicle weight (in pounds).
+2. Curb weights are those published in the N.A.D.A. used car dealer guide, if available, or on the vehicle manufacturer’s tag if equipped and not tampered with. If the tag weight is used, it will be given in gross vehicle weight and must be adjusted. Subtract 175 lb per occupant, from the GVW to get curb weight.
+3. Actual displacement is adjusted by factors from the “norm” and then divided by the curb weight. (Norm = 2 valves and 1 injector per cylinder normally aspirated, in-line configuration.) This number will be used to class the car.
+4. Side-intake-port Wankel rotary engine displacement is multiplied by 1. prior to applying factors.
+5. Some classes in Unprepared and Street Prepared are limited to two- wheel drive (2WD) vehicles.
+6. No kit cars and no engine swaps will be allowed in Unprepared. In Street Prepared kit cars and engine swaps will be classed where deemed most competitive.
+7. To determine your car’s class, multiply your car’s actual displacement by each applicable adjustment under 5.F. Take the sum and divide this by the car’s weight to come up with your class factor. Apply this number to the chart above. Then come run and have fun!
+8. There will be no penalty for a roll cage regardless of how it is tied in to the body structure, or for racing seats.
+9. Updating or backdating within the model will not be penalized (factors will be assessed after the changes).
+10. Emission requirements shall not be considered in the enforcement of these rules.
 B. Unprepared Base Class Determination
 1. Class U1 - Unprepared 1 1.550 and above cc/lb
 2. Class U2 - Unprepared 2 2WD 1.550 and above cc/lb
@@ -191,37 +155,23 @@ D. Unprepared and Street Prepared Displacement Factors
 ```
 A. Class Requirements
 ```
-1. Electric vehicles must use only electric power during racing. Motor(s)
-    must be powered only by a charge storage device (batteries,
-    capacitors, other charge accumulators), or by fuel cell. A hybrid electric
-    vehicle (e.g., Toyota Prius) may be raced in electric-only mode.
+1. Electric vehicles must use only electric power during racing. Motor(s) must be powered only by a charge storage device (batteries, capacitors, other charge accumulators), or by fuel cell. A hybrid electric vehicle (e.g., Toyota Prius) may be raced in electric-only mode.
 
 ```
 B. Electric Vehicle Class Determination
 ```
-1. Unprepared Electric (UE) Electric class is for unmodified electric
-    vehicles built by a recognized manufacturer to U.S. DOT standards.
-2. Prepared Electric (PE) class is for modified, converted, or custom
-    electric vehicles, and must comply with the technical and safety rules
-    for prepared electric vehicles.
+1. Unprepared Electric (UE) Electric class is for unmodified electric vehicles built by a recognized manufacturer to U.S. DOT standards.
+2. Prepared Electric (PE) class is for modified, converted, or custom electric vehicles, and must comply with the technical and safety rules for prepared electric vehicles.
 
 ### 7. RALLY SPRINT
 
 ```
 A. Class Requirements
 ```
-1. Properly Rally Logbooked cars only-includes NASA Rally, RA, FIA,
-    CARS, ARA. Rally Sprint cars do not need to be registered/street legal
-    as there are no transits.
-2. Driver and co-driver must have all safety gear required by Logbook's
-    sanctioning body. Driver and co-driver must be as listed on the entry.
-    No Rally license required.
-3. Tires: Must be DOT tires or Tarmac Rally Tires. Slicks are disallowed:
-    "slicks" are defined as any tire that does not have a minimum of 1.6mm
-    (2/32") tread depth over at least a 17% void area.
-4. Any rule not directly addressed by the rally sprint class rules defaults to
-    NEHA SP class rules. (Example: all cars with a kill switch must have an
-    air horn installed)
+1. Properly Rally Logbooked cars only-includes NASA Rally, RA, FIA, CARS, ARA. Rally Sprint cars do not need to be registered/street legal as there are no transits.
+2. Driver and co-driver must have all safety gear required by Logbook's sanctioning body. Driver and co-driver must be as listed on the entry. No Rally license required.
+3. Tires: Must be DOT tires or Tarmac Rally Tires. Slicks are disallowed: "slicks" are defined as any tire that does not have a minimum of 1.6mm (2/32") tread depth over at least a 17% void area.
+4. Any rule not directly addressed by the rally sprint class rules defaults to NEHA SP class rules. (Example: all cars with a kill switch must have an air horn installed)
 
 ```
 B. Rally Sprint Class Determination
@@ -239,7 +189,6 @@ A. Class Requirements
 3. If the driver of a Bracket class car gets a time that is less than the bracket time the driver will receive no time (NT) in the results.
 4. Bracket class cars that are subject to the breakout rule (Tech E.2.b) are still subject to that rule if they run less than the breakout time for the course.
 B. Bracket Class Determination
-1. Class B – Bracket – The Bracket (B) class is the only Bracket class and
-is used for all entrants.
+1. Class B – Bracket – The Bracket (B) class is the only Bracket class and is used for all entrants.
 
 
