@@ -1,7 +1,9 @@
 on:
-  push:
+  pull_request:
+    types: [opened, edited, reopened]
     paths:
-      - 'docs/**'
+      - 'docs/**.md'
+      - 'docs/images/**'
 
 name: Create PDFs from Markdowns
 
@@ -20,6 +22,7 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: false
+          table_of_contents: true
       - uses: actions/upload-artifact@v3
         with:
           name: docs
