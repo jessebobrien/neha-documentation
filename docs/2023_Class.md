@@ -20,13 +20,12 @@ A. Class Requirements
 
 ### 2. PREPARED
 
-A. Base Class Determination
+1. Base Class Determination
 	1. Class P1 - Prepared 1 – Cars with a displacement of 4501cc to 8000cc.
 	1. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
 	1. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
 	1. Class P4 - Prepared 4 – Cars with a displacement of 1600cc and less.
-B. Displacement Factors - The following factors will be applied to engine
-displacements for determination of Prepared classes.
+1. Displacement Factors - The following factors will be applied to engine displacements for determination of Prepared classes.
 	1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual displacement by 2.
 	2. Rotary engines: Multiply rated displacement by 1.62.
 		> Factored displacement from 2.B.1 and 2.B.2 will apply as actual displacement for use of the following factors:
