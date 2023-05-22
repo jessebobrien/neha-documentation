@@ -12,7 +12,7 @@
 	1. Horns - 2 blasts for OK, continuous blast for all help
 	1. Start procedure (varies with course/club)
 	1. Tire warming (varies with course/club)
-	1. Finish line / holding procedure (varies with club)_
+	1. Finish line / holding procedure (varies with club)
 7. Review course and conditions:
 	1. Signs to inside of turn
 	1. Peculiar hazards of course
