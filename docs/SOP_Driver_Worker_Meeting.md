@@ -13,13 +13,11 @@
 	1. Start procedure (varies with course/club)
 	1. Tire warming (varies with course/club)
 	1. Finish line / holding procedure (varies with club)_
-
 7. Review course and conditions:
 	1. Signs to inside of turn
 	1. Peculiar hazards of course
 	1. Weather conditions & their effect on event
 	1. Including schedule change and/or course change due to weather
-
 8. Review schedule, staging, and running order
 	1. Run groups
 	1. Fam runs
@@ -29,5 +27,4 @@
 	1. Lunch break
 	1. Check-out meting for workers
 	1. Radio Return!
-
 9. Keep your head on straight, go fast and have fun!
