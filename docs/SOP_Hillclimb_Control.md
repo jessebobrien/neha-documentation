@@ -5,7 +5,8 @@ Hillclimb Control Standard Operating Procedure
 	2. Checkpoints will have 2-way communication with Control and Finish.
 	3. Emergency medical response personnel and equipment are on the premises and in communication with Control.
 	4. “Clear Course” is established when the checkpoints confirm that the road is free of obstacles to competitors, and that access to the course is controlled.
-	5. Control is responsible for coordinating Start, Finish, and the checkpoints to maintain the integrity of the course and event. Control is responsible to the Chief Steward and Chair.
+	5. Control is responsible for coordinating Start, Finish, and the checkpoints to maintain the integrity of the course and event. 
+		Control is responsible to the Chief Steward and Chair.
 	6. Drivers must obey the instructions of Control, as given to them by the course workers.
 2. Staffing the Course
 	1. Make sure all course workers have signed all releases, and are otherwise qualified.
