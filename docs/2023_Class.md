@@ -29,9 +29,9 @@ A. Class Requirements
 A. Base Class Determination
 ```
 1. Class P1 - Prepared 1 – Cars with a displacement of 4501cc to 8000cc.
-2. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
-3. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
-4. Class P4 - Prepared 4 – Cars with a displacement of 1600cc and less.
+1. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
+1. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
+1. Class P4 - Prepared 4 – Cars with a displacement of 1600cc and less.
 
 ```
 B. Displacement Factors - The following factors will be applied to engine
