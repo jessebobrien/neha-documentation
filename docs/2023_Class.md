@@ -1,12 +1,10 @@
 # New England Hillclimb Series
 
-## Classifications  2023
+## Classifications 2023
 
 ```
 Additions to the 2022 rules are indicated in bold italic.
 ```
-
-Ban the use of mayonnaise at all events, for all purposes.
 
 The following are guidelines for the New England Hillclimb Series. They are meant to be a fair and equal grouping of cars in a competitive nature. All cars are classed as though they were prepared to the ultimate state. The tech inspectors are empowered to inspect your vehicle and personal equipment for general safety for participation at our events. Tech inspectors are NOT the classification committee.
 
@@ -21,45 +19,33 @@ A. Class Requirements
 
 ### 2. PREPARED
 
-```
 A. Base Class Determination
-```
 
 1. Class P1 - Prepared 1 – Cars with a displacement of 4501cc to 8000cc.
 1. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
 1. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
 1. Class P4 - Prepared 4 – Cars with a displacement of 1600cc and less.
 
-```
 B. Displacement Factors - The following factors will be applied to engine
 displacements for determination of Prepared classes.
-```
 
 1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual displacement by 2.
 2. Rotary engines: Multiply rated displacement by 1.62.
-
-```
-Factored displacement from 2.B.1 and 2.B.2 will apply as actual
-displacement for use of the following factors:
-```
-
+	> Factored displacement from 2.B.1 and 2.B.2 will apply as actual displacement for use of the following factors:
 3. Cars with a throttle plate area of less than 0.65 mm^2 /cc: Deduct 12% of actual displacement.
 4. Cars competing on tires meeting the requirements of Sec. 2.C.4 (DOT tires): Deduct 12% of actual displacement.
 5. Four Wheel Drive: Multiply actual displacement by 1.
 6. Cars configured for production class racing (i.e. Retains stock chassis structure and suspension mounting points.) Deduct 12% of actual displacement. Classes recognized as production classes include SCCA IT and AS; production classes in SCCA, EMRA, and SVRA; and most Street Stock
 
-```
 classes. Criteria for recognition of existing classes, or for use of this
 factor on cars not originating in these classes, are retention of all-original
 body, frame, floors, and firewalls; use of all original control arms and
 original suspension geometry; original configuration of engine, in stock
 position.
-```
+
 ### 3. UNPREPARED
 
-```
 A. Class Requirements
-```
 
 1. All cars shall be as produced, available in the North America, and at least 500 made by the manufacturer.
 2. Must be capable of passing a Vermont State Vehicle Inspection.
@@ -77,9 +63,7 @@ A. Class Requirements
 
 ### 4. STREET PREPARED
 
-```
 A. Class Requirements
-```
 
 1. This category is based on stock production vehicles that are easily recognized as such, and must have operational lights, horn, glass, wipers, mirrors, door handles, bumpers, bumper reinforcement bars (in good condition OEM or equivalent), both front seats, heater and dashboard.
 2. The following items may be removed: emissions equipment, sound deadening, sound system, head liner, floor covering, trunk area covering, rear seating (provided that proper separation remains or is installed between driver and fuel area). Removal in excess of the above invokes the excessive lightening penalty.
@@ -91,7 +75,6 @@ A. Class Requirements
 8. Engine/ driveline modifications are allowed.
 9. Rim size may be changed. Tire size is free but the tread may not be seen from above. Tires must be DOT approved. Wheel openings shall retain their original contour when viewed from the side.
 10. The above items do not void any applicable safety requirements as listed in the Technical and Safety Requirements.
-
 5. UNPREPARED AND STREET PREPARED CLASS DETERMINATION
 A. Base Class Determination
 1. Classes are determined within a category by the ratio of adjusted engine displacement (in cubic centimeters) to vehicle weight (in pounds).
@@ -111,10 +94,7 @@ B. Unprepared Base Class Determination
 4. Class U4 - Unprepared 4 2WD Less than 1.550 cc/lb
 5. Class U5 - Unprepared 5 Less than 1.000 cc/lb
 6. Class U6 - Unprepared 6 Less than 0.840 cc/lb
-
-```
 C. Street Prepared Base Class Determination
-```
 1. Class S1 - Street Prepared 1 1.500 and above cc/lb
 2. Class S2 - Street Prepared 2 2WD 1.500 and above cc/lb
 3. Class S3 - Street Prepared 3 Less than 1.500 cc/lb
@@ -152,38 +132,25 @@ D. Unprepared and Street Prepared Displacement Factors
 
 ### 6. ELECTRIC VEHICLES
 
-```
 A. Class Requirements
-```
 1. Electric vehicles must use only electric power during racing. Motor(s) must be powered only by a charge storage device (batteries, capacitors, other charge accumulators), or by fuel cell. A hybrid electric vehicle (e.g., Toyota Prius) may be raced in electric-only mode.
-
-```
 B. Electric Vehicle Class Determination
-```
 1. Unprepared Electric (UE) Electric class is for unmodified electric vehicles built by a recognized manufacturer to U.S. DOT standards.
 2. Prepared Electric (PE) class is for modified, converted, or custom electric vehicles, and must comply with the technical and safety rules for prepared electric vehicles.
 
 ### 7. RALLY SPRINT
 
-```
 A. Class Requirements
-```
 1. Properly Rally Logbooked cars only-includes NASA Rally, RA, FIA, CARS, ARA. Rally Sprint cars do not need to be registered/street legal as there are no transits.
 2. Driver and co-driver must have all safety gear required by Logbook's sanctioning body. Driver and co-driver must be as listed on the entry. No Rally license required.
 3. Tires: Must be DOT tires or Tarmac Rally Tires. Slicks are disallowed: "slicks" are defined as any tire that does not have a minimum of 1.6mm (2/32") tread depth over at least a 17% void area.
 4. Any rule not directly addressed by the rally sprint class rules defaults to NEHA SP class rules. (Example: all cars with a kill switch must have an air horn installed)
-
-```
 B. Rally Sprint Class Determination
-```
 1. Class R1 - Rally 1 - Turbo/supercharged/high displacement cars. AWD turbo cars in R1 must use a turbo restrictor in accordance to current US rally regulations.
 2. Class R2 – Rally 2 - Non-turbo cars.
 
 ### 8. BRACKET
-
-```
 A. Class Requirements
-```
 1. Any car legal for any NEHA class may bump to Bracket class at the entrant’s request.
 2. Cars in Bracket are subject to a bracket time which is 5 seconds more than the breakout time for the course.
 3. If the driver of a Bracket class car gets a time that is less than the bracket time the driver will receive no time (NT) in the results.

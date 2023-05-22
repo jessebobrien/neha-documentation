@@ -1,15 +1,16 @@
 # Hillclimb Setup Standard Operating Procedures
 
-# 1. Site Preparation
+## Site Preparation
 
-**_A. Pits_**
+### Pits
 
 1. police area
 2. site porta-potty
 3. set up registration table/tent
 4. set up hospitality (coolers)
 5. set up tech
-**_B. Road preparation_**
+
+### Road preparation
 1. Sweep/shovel
 **Remove washed-in dirt, leaves, etc.
 ditch water away
@@ -28,13 +29,12 @@ Secure and load wire truck and sign truck/car**
 **Coolers/ canopy to registration**
 
 2. Lay telephone wire
-**Wire for Okemo/Burke lays out from top of reel, bottom of mountain to top.
-Lay wire before signs go up.**
+	> Wire for Okemo/Burke lays out from top of reel, bottom of mountain to top. Lay wire before signs go up.
 3. Set up corner and checkpoint signs
 4. Test telephone wire and phones
 5. Secure course.
 
-# 2. Checkpoint equipment, allocation by type
+## Checkpoint equipment, allocation by type
 
 **_Radios_**
 Chief Steward
@@ -74,7 +74,6 @@ Extras on Clean - up truck
 Clean-up truck
 **_Shelters_**
 
-
 Varies with course, weather
 **_Pylons_**
 Mark start, finish, hazards in road
@@ -82,8 +81,7 @@ Mark start, finish, hazards in road
 To meet local requirements
 Usually at staging
 
-
-# 2A. Checkpoint equipment, allocation by location
+## Checkpoint equipment, allocation by location
 
 **_Registration_**
 Radios - sign out location
@@ -102,7 +100,6 @@ Pylons
 Phone
 Red flag
 Black flag at Check 1
-
 
 Broom, Speedy-Dry
 Fire bottle (dry chemical)
@@ -124,12 +121,10 @@ Brooms, bulk Speedy-dry
 Shovels
 Water extinguisher
 
-# 3. Site teardown
+## Site teardown
 
 **_Pick up equipment_**
 Wire
-
-
 Corner and checkpoint signs
 Checkpoint equipment
 Fencing, ribbon, pylons, access control signs
@@ -141,5 +136,3 @@ Note repairs needed before next event
 Check in all radios
 **_Police area completely,_**
 consolidate trash to provided area or pack out
-
-
