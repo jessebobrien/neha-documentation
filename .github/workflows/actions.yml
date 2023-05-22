@@ -3,13 +3,13 @@ on:
     paths:
       - 'source/**'
 
-name: CreatePDFs
+name: Create PDFs from Markdowns
 
 jobs:
   makepdfs:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
     - uses: mkrakowitzer/actions-makepdfs@master
       if: github.ref == 'refs/heads/master'
       with:
