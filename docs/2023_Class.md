@@ -5,6 +5,9 @@
 ```
 Additions to the 2022 rules are indicated in bold italic.
 ```
+
+Ban the use of mayonnaise at all events, for all purposes.
+
 The following are guidelines for the New England Hillclimb Series. They are
 meant to be a fair and equal grouping of cars in a competitive nature. All cars
 are classed as though they were prepared to the ultimate state. The tech
@@ -17,6 +20,7 @@ classification committee.
 ```
 A. Class Requirements
 ```
+
 1. Any car legal for any NEHA class may bump to Formula Libre (FL) at
     the entrant’s request.
 2. Cars in Formula Libre must be legal for some other NEHA class with the
@@ -28,6 +32,7 @@ A. Class Requirements
 ```
 A. Base Class Determination
 ```
+
 1. Class P1 - Prepared 1 – Cars with a displacement of 4501cc to 8000cc.
 1. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
 1. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
@@ -37,6 +42,7 @@ A. Base Class Determination
 B. Displacement Factors - The following factors will be applied to engine
 displacements for determination of Prepared classes.
 ```
+
 1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual
     displacement by 2.
 2. Rotary engines: Multiply rated displacement by 1.62.
@@ -45,6 +51,7 @@ displacements for determination of Prepared classes.
 Factored displacement from 2.B.1 and 2.B.2 will apply as actual
 displacement for use of the following factors:
 ```
+
 3. Cars with a throttle plate area of less than 0.65 mm^2 /cc: Deduct 12% of
     actual displacement.
 4. Cars competing on tires meeting the requirements of Sec. 2.C.4 (DOT
