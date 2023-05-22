@@ -92,32 +92,32 @@ Tech inspectors are NOT the classification committee.
 	5. Class S5 - Street Prepared 5 Less than 1.060 cc/lb
 	6. Class S6 - Street Prepared 6 Less than 0.900 cc/lb
 1. Unprepared and Street Prepared Displacement Factors
-	1. Variable valve timing 25%
-	2. Four-wheel drive 25%
-	3. Wheel size (diameter and width) per .5 inch 1%
-	4. Tire treadwear rating (50–150 U Class) (< 100 SP Class) 8%
-	5. Non-stock antiroll bars (SP only) 5%
-	6. Non-stock springs (SP only) 5%
-	7. Modified suspension (SP only) 5%
-		(other than shocks, alignment, and bolt-on reinforcement)
-	8. 6-point roll cage (U Class) – 5%
-	9. 6-point roll cage (SP Class) – 20%
-	10. Intact interior (SP only with full cage) – 5%
-	11. Excessive lightening (SP only) 15%
-	12. More than 2 valves per cylinder * 10% each
-		(Stratified charge valves not included.)
-	13. More than 1 camshaft per bank of cylinders 5%
-	14. V type engine configuration 10%
-	15. 1 venturi or injector per 4 or more cylinders – 20%
-	16. 1 venturi or injector per 2 cylinders – 10%
-	17. Non-stock exhaust manifold (SP only) 10%
-	18. Non-stock induction (SP only) 10%
-	19. Turbocharger 30%
-	20. Supercharger 25%
-	21. Intercooler 25%
-	22. Excessive sound (over 96 dB) at 50 feet 15%
-	23. Nitrous oxide (mandatory fire system) (SP only) + 1 Class
-	24. Diesel – 25%
+	```
+	Variable valve timing 25%
+	Four-wheel drive 25%
+	Wheel size (diameter and width) per .5 inch 1%
+	Tire treadwear rating (50–150 U Class) (< 100 SP Class) 8%
+	Non-stock antiroll bars (SP only) 5%
+	Non-stock springs (SP only) 5%
+	Modified suspension (SP only) 5% (other than shocks, alignment, and bolt-on reinforcement)
+	6-point roll cage (U Class) – 5%
+	6-point roll cage (SP Class) – 20%
+	Intact interior (SP only with full cage) – 5%
+	Excessive lightening (SP only) 15%
+	More than 2 valves per cylinder * 10% each (Stratified charge valves not included.)
+	More than 1 camshaft per bank of cylinders 5%
+	V type engine configuration 10%
+	1 venturi or injector per 4 or more cylinders – 20%
+	1 venturi or injector per 2 cylinders – 10%
+	Non-stock exhaust manifold (SP only) 10%
+	Non-stock induction (SP only) 10%
+	Turbocharger 30%
+	Supercharger 25%
+	Intercooler 25%
+	Excessive sound (over 96 dB) at 50 feet 15%
+	Nitrous oxide (mandatory fire system) (SP only) + 1 Class
+	Diesel – 25%
+	```
 
 ### 6. ELECTRIC VEHICLES
 
