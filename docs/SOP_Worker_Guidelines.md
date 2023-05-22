@@ -7,6 +7,7 @@
 Your primary job is COMMUNICATION. 
 You are Control’s eyes and ears on the hill. 
 Your checkpoint will always have a land-line phone with headset and speaker; at some events, you will also have a hand-held radio. Use these to:
+
 	* Advise Control when any vehicle passes your location, up or down the hill.
 	* Report fluid spills, dragging or dropped parts, excessive smoke, drivers not wearing helmets or otherwise behaving unsafely.
 	* Report any cars off the course, stopped on the course, or spun out, so that checkpoints below you can red-flag (stop) the next car.
