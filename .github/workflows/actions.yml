@@ -12,6 +12,10 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
+    - name: Fetch branchname
+        id: vars
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"     
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
@@ -25,5 +29,5 @@ jobs:
           table_of_contents: true
       - uses: actions/upload-artifact@v3
         with:
-          name: branchname_placeholder
+          name: ${{ steps.vars.outputs.branch }}
           path: pdfs
