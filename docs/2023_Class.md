@@ -8,12 +8,7 @@ Additions to the 2022 rules are indicated in bold italic.
 
 Ban the use of mayonnaise at all events, for all purposes.
 
-The following are guidelines for the New England Hillclimb Series. They are
-meant to be a fair and equal grouping of cars in a competitive nature. All cars
-are classed as though they were prepared to the ultimate state. The tech
-inspectors are empowered to inspect your vehicle and personal equipment for
-general safety for participation at our events. Tech inspectors are NOT the
-classification committee.
+The following are guidelines for the New England Hillclimb Series. They are meant to be a fair and equal grouping of cars in a competitive nature. All cars are classed as though they were prepared to the ultimate state. The tech inspectors are empowered to inspect your vehicle and personal equipment for general safety for participation at our events. Tech inspectors are NOT the classification committee.
 
 ### 1. FORMULA LIBRE
 
@@ -21,11 +16,8 @@ classification committee.
 A. Class Requirements
 ```
 
-1. Any car legal for any NEHA class may bump to Formula Libre (FL) at
-    the entrant’s request.
-2. Cars in Formula Libre must be legal for some other NEHA class with the
-    exception that cars not legal for Prepared because of engine
-    displacement or tech rules 2.BB.1 and 5.FF.1 are legal in Formula Libre.
+1. Any car legal for any NEHA class may bump to Formula Libre (FL) at the entrant’s request.
+2. Cars in Formula Libre must be legal for some other NEHA class with the exception that cars not legal for Prepared because of engine displacement or tech rules 2.BB.1 and 5.FF.1 are legal in Formula Libre.
 
 ### 2. PREPARED
 
@@ -43,8 +35,7 @@ B. Displacement Factors - The following factors will be applied to engine
 displacements for determination of Prepared classes.
 ```
 
-1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual
-    displacement by 2.
+1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual displacement by 2.
 2. Rotary engines: Multiply rated displacement by 1.62.
 
 ```
@@ -52,16 +43,10 @@ Factored displacement from 2.B.1 and 2.B.2 will apply as actual
 displacement for use of the following factors:
 ```
 
-3. Cars with a throttle plate area of less than 0.65 mm^2 /cc: Deduct 12% of
-    actual displacement.
-4. Cars competing on tires meeting the requirements of Sec. 2.C.4 (DOT
-    tires): Deduct 12% of actual displacement.
+3. Cars with a throttle plate area of less than 0.65 mm^2 /cc: Deduct 12% of actual displacement.
+4. Cars competing on tires meeting the requirements of Sec. 2.C.4 (DOT tires): Deduct 12% of actual displacement.
 5. Four Wheel Drive: Multiply actual displacement by 1.
-6. Cars configured for production class racing (i.e. Retains stock chassis
-    structure and suspension mounting points.) Deduct 12% of actual
-    displacement.
-       Classes recognized as production classes include SCCA IT and AS;
-    production classes in SCCA, EMRA, and SVRA; and most Street Stock
+6. Cars configured for production class racing (i.e. Retains stock chassis structure and suspension mounting points.) Deduct 12% of actual displacement. Classes recognized as production classes include SCCA IT and AS; production classes in SCCA, EMRA, and SVRA; and most Street Stock
 
 ```
 classes. Criteria for recognition of existing classes, or for use of this
@@ -75,28 +60,18 @@ position.
 ```
 A. Class Requirements
 ```
-1. All cars shall be as produced, available in the North America, and at
-    least 500 made by the manufacturer.
+
+1. All cars shall be as produced, available in the North America, and at least 500 made by the manufacturer.
 2. Must be capable of passing a Vermont State Vehicle Inspection.
-3. No stock equipment or parts may be removed unless they were
-    available as an option on that particular vehicle. The only exception is
-    removal of the A/C system.
-4. Some interior parts may be minimally altered (but not removed) to allow
-    installation of safety equipment.
+3. No stock equipment or parts may be removed unless they were available as an option on that particular vehicle. The only exception is removal of the A/C system.
+4. Some interior parts may be minimally altered (but not removed) to allow installation of safety equipment.
 5. The engine is to be the original type and size for that year car.
-6. Other than the air filter and its housings the induction system may not be
-    modified to allow more air into the engine, such as oversize throttle
-    bodies, carbs, or intake manifolds.
-7. A piggyback computer that can modify the mass air flow or MAP sensor
-    is illegal.
-8. No modifications to the exhaust manifold. The exhaust system may be
-    replaced with a “cat-back” system (where applicable) that runs in the
-    stock location and exits in the stock location.
-9. Bolt-on bracing and minor suspension reinforcements that require no
-    cutting or fabrication for installation are allowed.
+6. Other than the air filter and its housings the induction system may not be modified to allow more air into the engine, such as oversize throttle bodies, carbs, or intake manifolds.
+7. A piggyback computer that can modify the mass air flow or MAP sensor is illegal.
+8. No modifications to the exhaust manifold. The exhaust system may be replaced with a “cat-back” system (where applicable) that runs in the stock location and exits in the stock location.
+9. Bolt-on bracing and minor suspension reinforcements that require no cutting or fabrication for installation are allowed.
 10. Springs must be on original seats.
-11. Rim size may be changed. Tire size is free. (Fender lip may be flattened
-to help prevent tire chafing.)
+11. Rim size may be changed. Tire size is free. (Fender lip may be flattened to help prevent tire chafing.)
 12. Tires must be DOT approved.
 13. OEM flexible brake lines may be replaced with aftermarket or motorsport
 braided stainless steel lines.
@@ -106,6 +81,7 @@ braided stainless steel lines.
 ```
 A. Class Requirements
 ```
+
 1. This category is based on stock production vehicles that are easily
     recognized as such, and must have operational lights, horn, glass,
     wipers, mirrors, door handles, bumpers, bumper reinforcement bars (in
@@ -116,8 +92,6 @@ A. Class Requirements
     covering, rear seating (provided that proper separation remains or is
     installed between driver and fuel area). Removal in excess of the above
     invokes the excessive lightening penalty.
-
-
 3. Doors may not have any structure removed causing them to be
     excessively lightened – i.e.; intrusion bar, outer framework and basic
     structure of the door must remain intact.
@@ -252,9 +226,7 @@ A. Class Requirements
 ```
 B. Rally Sprint Class Determination
 ```
-1. Class R1 - Rally 1 - Turbo/supercharged/high displacement cars. AWD
-    turbo cars in R1 must use a turbo restrictor in accordance to
-    current US rally regulations.
+1. Class R1 - Rally 1 - Turbo/supercharged/high displacement cars. AWD turbo cars in R1 must use a turbo restrictor in accordance to current US rally regulations.
 2. Class R2 – Rally 2 - Non-turbo cars.
 
 ### 8. BRACKET
@@ -262,15 +234,10 @@ B. Rally Sprint Class Determination
 ```
 A. Class Requirements
 ```
-1. Any car legal for any NEHA class may bump to Bracket class at the
-    entrant’s request.
-2. Cars in Bracket are subject to a bracket time which is 5 seconds more
-    than the breakout time for the course.
-3. If the driver of a Bracket class car gets a time that is less than the
-    bracket time the driver will receive no time (NT) in the results.
-4. Bracket class cars that are subject to the breakout rule (Tech E.2.b) are
-    still subject to that rule if they run less than the breakout time for the
-    course.
+1. Any car legal for any NEHA class may bump to Bracket class at the entrant’s request.
+2. Cars in Bracket are subject to a bracket time which is 5 seconds more than the breakout time for the course.
+3. If the driver of a Bracket class car gets a time that is less than the bracket time the driver will receive no time (NT) in the results.
+4. Bracket class cars that are subject to the breakout rule (Tech E.2.b) are still subject to that rule if they run less than the breakout time for the course.
 B. Bracket Class Determination
 1. Class B – Bracket – The Bracket (B) class is the only Bracket class and
 is used for all entrants.
