@@ -11,9 +11,6 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-        - name: Get Branch
-          id: branch
-          run: echo "git_branch=${GITHUB_REF#refs/heads/}" >> $GITHUB_BRANCH
         - uses: actions/checkout@v3
         - uses: baileyjm02/markdown-to-pdf@v1
           with:
