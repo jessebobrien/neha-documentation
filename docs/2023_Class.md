@@ -17,10 +17,10 @@ Tech inspectors are NOT the classification committee.
 ### 2. PREPARED
 
 1. Base Class Determination
-	1. Class P1 - Prepared 1 – Cars with a displacement of 4501cc to 8000cc.
-	1. Class P2 - Prepared 2 – Cars with a displacement of 2201cc to 4500cc.
-	1. Class P3 - Prepared 3 – Cars with a displacement of 1601cc to 2200cc.
-	1. Class P4 - Prepared 4 – Cars with a displacement of 1600cc and less.
+	1. Class P1 - Prepared 1 – Cars with a displacement of 5501cc to 12000cc.
+	1. Class P2 - Prepared 2 – Cars with a displacement of 2401cc to 5500cc.
+	1. Class P3 - Prepared 3 – Cars with a displacement of 1801cc to 2400cc.
+	1. Class P4 - Prepared 4 – Cars with a displacement of 1800cc and less.
 1. Displacement Factors - The following factors will be applied to engine displacements for determination of Prepared classes.
 	1. Supercharging, turbocharging, or nitrous oxide induction: Multiply actual displacement by 2.
 	2. Rotary engines: Multiply rated displacement by 1.62.
