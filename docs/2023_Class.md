@@ -14,7 +14,7 @@ Tech inspectors are NOT the classification committee.
 
 ### 1. FORMULA LIBRE
 
-A. Class Requirements
+1. Class Requirements
 	1. Any car legal for any NEHA class may bump to Formula Libre (FL) at the entrant’s request.
 	2. Cars in Formula Libre must be legal for some other NEHA class with the exception that cars not legal for Prepared because of engine displacement or tech rules 2.BB.1 and 5.FF.1 are legal in Formula Libre.
 
@@ -39,7 +39,7 @@ A. Class Requirements
 
 ### 3. UNPREPARED
 
-A. Class Requirements
+1. Class Requirements
 	1. All cars shall be as produced, available in the North America, and at least 500 made by the manufacturer.
 	2. Must be capable of passing a Vermont State Vehicle Inspection.
 	3. No stock equipment or parts may be removed unless they were available as an option on that particular vehicle. The only exception is removal of the A/C system.
@@ -56,7 +56,7 @@ A. Class Requirements
 
 ### 4. STREET PREPARED
 
-A. Class Requirements
+1. Class Requirements
 	1. This category is based on stock production vehicles that are easily recognized as such, and must have operational lights, horn, glass, wipers, mirrors, door handles, bumpers, bumper reinforcement bars (in good condition OEM or equivalent), both front seats, heater and dashboard.
 	2. The following items may be removed: emissions equipment, sound deadening, sound system, head liner, floor covering, trunk area covering, rear seating (provided that proper separation remains or is installed between driver and fuel area). Removal in excess of the above invokes the excessive lightening penalty.
 	3. Doors may not have any structure removed causing them to be excessively lightened – i.e.; intrusion bar, outer framework and basic structure of the door must remain intact.
@@ -70,7 +70,7 @@ A. Class Requirements
 
 ### 5. UNPREPARED AND STREET PREPARED CLASS DETERMINATION
 
-A. Base Class Determination
+1. Base Class Determination
 	1. Classes are determined within a category by the ratio of adjusted engine displacement (in cubic centimeters) to vehicle weight (in pounds).
 	2. Curb weights are those published in the N.A.D.A. used car dealer guide, if available, or on the vehicle manufacturer’s tag if equipped and not tampered with. If the tag weight is used, it will be given in gross vehicle weight and must be adjusted. Subtract 175 lb per occupant, from the GVW to get curb weight.
 	3. Actual displacement is adjusted by factors from the “norm” and then divided by the curb weight. (Norm = 2 valves and 1 injector per cylinder normally aspirated, in-line configuration.) This number will be used to class the car.
@@ -81,21 +81,21 @@ A. Base Class Determination
 	8. There will be no penalty for a roll cage regardless of how it is tied in to the body structure, or for racing seats.
 	9. Updating or backdating within the model will not be penalized (factors will be assessed after the changes).
 	10. Emission requirements shall not be considered in the enforcement of these rules.
-B. Unprepared Base Class Determination
+1. Unprepared Base Class Determination
 	1. Class U1 - Unprepared 1 1.550 and above cc/lb
 	2. Class U2 - Unprepared 2 2WD 1.550 and above cc/lb
 	3. Class U3 - Unprepared 3 Less than 1.550 cc/lb
 	4. Class U4 - Unprepared 4 2WD Less than 1.550 cc/lb
 	5. Class U5 - Unprepared 5 Less than 1.000 cc/lb
 	6. Class U6 - Unprepared 6 Less than 0.840 cc/lb
-C. Street Prepared Base Class Determination
+1. Street Prepared Base Class Determination
 	1. Class S1 - Street Prepared 1 1.500 and above cc/lb
 	2. Class S2 - Street Prepared 2 2WD 1.500 and above cc/lb
 	3. Class S3 - Street Prepared 3 Less than 1.500 cc/lb
 	4. Class S4 - Street Prepared 4 2WD Less than 1.500 cc/lb
 	5. Class S5 - Street Prepared 5 Less than 1.060 cc/lb
 	6. Class S6 - Street Prepared 6 Less than 0.900 cc/lb
-D. Unprepared and Street Prepared Displacement Factors
+1. Unprepared and Street Prepared Displacement Factors
 	1. Variable valve timing 25%
 	2. Four-wheel drive 25%
 	3. Wheel size (diameter and width) per .5 inch 1%
@@ -125,29 +125,29 @@ D. Unprepared and Street Prepared Displacement Factors
 
 ### 6. ELECTRIC VEHICLES
 
-A. Class Requirements
+1. Class Requirements
 	1. Electric vehicles must use only electric power during racing. Motor(s) must be powered only by a charge storage device (batteries, capacitors, other charge accumulators), or by fuel cell. A hybrid electric vehicle (e.g., Toyota Prius) may be raced in electric-only mode.
-B. Electric Vehicle Class Determination
+1. Electric Vehicle Class Determination
 	1. Unprepared Electric (UE) Electric class is for unmodified electric vehicles built by a recognized manufacturer to U.S. DOT standards.
 	2. Prepared Electric (PE) class is for modified, converted, or custom electric vehicles, and must comply with the technical and safety rules for prepared electric vehicles.
 
 ### 7. RALLY SPRINT
 
-A. Class Requirements
+1. Class Requirements
 	1. Properly Rally Logbooked cars only-includes NASA Rally, RA, FIA, CARS, ARA. Rally Sprint cars do not need to be registered/street legal as there are no transits.
 	2. Driver and co-driver must have all safety gear required by Logbook's sanctioning body. Driver and co-driver must be as listed on the entry. No Rally license required.
 	3. Tires: Must be DOT tires or Tarmac Rally Tires. Slicks are disallowed: "slicks" are defined as any tire that does not have a minimum of 1.6mm (2/32") tread depth over at least a 17% void area.
 	4. Any rule not directly addressed by the rally sprint class rules defaults to NEHA SP class rules. (Example: all cars with a kill switch must have an air horn installed)
-B. Rally Sprint Class Determination
+1. Rally Sprint Class Determination
 	1. Class R1 - Rally 1 - Turbo/supercharged/high displacement cars. AWD turbo cars in R1 must use a turbo restrictor in accordance to current US rally regulations.
 	2. Class R2 – Rally 2 - Non-turbo cars.
 
 ### 8. BRACKET
 
-A. Class Requirements
+1. Class Requirements
 	1. Any car legal for any NEHA class may bump to Bracket class at the entrant’s request.
 	2. Cars in Bracket are subject to a bracket time which is 5 seconds more than the breakout time for the course.
 	3. If the driver of a Bracket class car gets a time that is less than the bracket time the driver will receive no time (NT) in the results.
 	4. Bracket class cars that are subject to the breakout rule (Tech E.2.b) are still subject to that rule if they run less than the breakout time for the course.
-B. Bracket Class Determination
+1. Bracket Class Determination
 	1. Class B – Bracket – The Bracket (B) class is the only Bracket class and is used for all entrants.
