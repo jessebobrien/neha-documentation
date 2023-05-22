@@ -1,10 +1,13 @@
-New England Hillclimb Series
-Regulations  2023
+### New England Hillclimb Series
+### Regulations  2023
+
 Changes to 2022 rules are indicated in bold italic.
+
 1. Hillclimbs are a two-day event. The only person who can make
 exceptions to this rule is the event chair. Drivers wishing to participate
 on Sunday only must be preregistered and it must be cleared with the
 event chair; such drivers lose the right to protest.
+
 2. A valid driver’s license must be shown at registration, without exception.
 Drivers, workers, and other participants must sign, and therefore accept
 the terms of, all releases required for the event. This may include club,
