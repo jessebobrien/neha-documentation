@@ -6,16 +6,21 @@ on:
 name: Create PDFs from Markdowns
 
 jobs:
-  makepdfs:
+  converttopdf:
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
-      with:
-        markdown_dir: source
-        output_dir: tmp
-    - uses: actions/upload-artifact@v3
-      with:
-        name: output-docs
-        path: tmp
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: docs
+          output_dir: pdfs
+          images_dir: docs/images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v3
+        with:
+          name: docs
+          path: pdfs
