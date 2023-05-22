@@ -1,5 +1,5 @@
 ### New England Hillclimb Series
-### Regulations  2023
+### Regulations 2023
 
 Changes to 2022 rules are indicated in bold italic.
 
