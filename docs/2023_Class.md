@@ -1,6 +1,6 @@
 # New England Hillclimb Series
 
-## Classifications 2023
+## Classifications
 
 The following are guidelines for the New England Hillclimb Series.
 They are meant to be a fair and equal grouping of cars in a competitive nature.
